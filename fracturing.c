@@ -65,6 +65,7 @@ int main()
     double x1, x2, y1, y2;
 
     
+    
     double distance = calculateDistance(x1, x2, y1, y2);
     printf("The distance between the two points is %.2lf units\n", distance);
     
