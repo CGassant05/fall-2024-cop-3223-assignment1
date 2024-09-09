@@ -16,7 +16,7 @@ double calculateDistance(double a1, double a2, double b1, double b2) {
 };
 
 
-/*double calculatePerimeter();
+double calculatePerimeter();
 
 double calculateArea();
 
@@ -24,7 +24,7 @@ double calculateWidth();
 
 double calculateHeight();
 
-double askForUserInput(); */
+double askForUserInput();
 
 int main()
 {
