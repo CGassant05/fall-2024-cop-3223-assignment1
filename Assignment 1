@@ -2,7 +2,7 @@
 Assignment 1
 Author: Christopher Gassant
 Class: COP 3223 Professor Juan Parra
-Purpose: Create multiple 
+Purpose: Create multiple fractures of code to determine distance, perimeter, area, width, and height using two points
 */
 
 #define PI = 3.14159
